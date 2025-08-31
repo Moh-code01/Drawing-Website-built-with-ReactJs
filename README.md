@@ -1,12 +1,31 @@
-# React + Vite
+Project Title : YourCanvasx
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Introduction:
 
-Currently, two official plugins are available:
+YourCanvasx is a drawing app built with ReactJS and Redux, offering interactive tools and functions for creativity and learning core React concepts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
 
-## Expanding the ESLint configuration
+1.Multi-width pencil
+2.Eraser
+3.Multicolor brush
+4.Undo/Redo
+5.Clear and save canvas
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Installation:
+
+1.Clone the repo
+2.Install dependencies (npm install)
+3.Start the app (npm start)
+
+Usage:
+
+Draw, erase, switch colors, undo/redo, clear or export canvas directly from the UI.
+
+Technologies"
+
+1.ReactJS
+2.Redux
+3.HTML Canvas
+4.Contributing
+Open to pull requests and feedback.
